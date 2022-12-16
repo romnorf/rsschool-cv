@@ -1,1 +1,1 @@
-# rs-school
+https://romnorf.github.io/rsschool-cv/
